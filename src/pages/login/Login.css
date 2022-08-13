@@ -1,0 +1,38 @@
+.login_container{
+    padding-inline: 0px;
+    overflow-x: hidden;
+}
+
+.login_image{
+    width: 100%;
+    height: 100vh;
+    object-fit: cover;
+    padding-right: 0px;
+}
+
+.login_form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-left: 0px;
+}
+.pet_walker{
+    display: flex;
+    justify-content: center;
+    font-size: 3.2rem; 
+    font-weight: bold;
+}
+.icon_position{
+    position: absolute;
+    top:12px;
+    left:10px;
+    color:#E0E0E0;
+}
+.form_group_login{
+    position: relative;
+}
+.form-control-input{
+    padding-left: 40px;
+
+}
