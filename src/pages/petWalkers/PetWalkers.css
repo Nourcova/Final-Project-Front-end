@@ -1,0 +1,31 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar img{
+    width: 120px;
+}
+.pet_walkers_main{
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #F0FFF7;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.pet_walker{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 20px;
+}
+.pet_walker_info{
+    display: flex;
+    align-items: center;
+} 
+.div_block{
+    display: block;
+    font-size: 1rem;
+}
